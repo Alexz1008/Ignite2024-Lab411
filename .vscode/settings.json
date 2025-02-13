@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/6f39923c-1c25-4d11-a0b5-30cf9a80cd98/resourceGroups/ResourceGroup1/providers/Microsoft.Web/sites/exercise1y225vauop6iua",
+    "appService.deploySubpath": "Exercise-1/devShopDNC/bin"
+}
